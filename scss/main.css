@@ -1,0 +1,243 @@
+header {
+  width: 1140px;
+  height: 982px;
+  margin: 0 auto;
+  background-image: url(../images/etienne-beauregard-riverin-B0aCvAVSX8E-unsplash\ \(2\).png);
+  background-repeat: no-repeat;
+}
+header .container {
+  width: 1070px;
+  margin: 0 auto;
+}
+header .container nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1070px;
+  height: 50px;
+  margin-top: 32px;
+  padding-top: 20px;
+}
+header .container nav .logo {
+  width: 128px;
+  height: 34px;
+}
+header .container nav .nav_menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+  height: 30px;
+}
+header .container nav .nav_menu ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+header .container nav .nav_menu ul li {
+  color: #FFF;
+  font-family: DMSans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.377px;
+}
+header .container nav .nav_btn button {
+  display: flex;
+  width: 211px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 0px 18px 0px 0px;
+  background: #FFAC12;
+  border: none;
+}
+header .container .nav_home {
+  width: 519px;
+  margin-top: 140px;
+}
+header .container .nav_home h2 {
+  color: #FFF;
+  font-family: DMSans;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 70px; /* 100% */
+  margin: 0;
+}
+header .container .nav_home p {
+  width: 428px;
+  color: black;
+  font-family: DMSans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 140% */
+  letter-spacing: -0.503px;
+  opacity: 0.6;
+}
+header .container .see_listings {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 1069px;
+  height: 90px;
+  flex-shrink: 0;
+  margin-top: 208px;
+  background: #FFF;
+  border-radius: 10px 10px 0 0;
+}
+header .container .see_listings h3 {
+  color: #000;
+  font-family: DMSans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 30px;
+  letter-spacing: -0.503px;
+}
+header .container .see_listings img {
+  width: 24px;
+  height: 12px;
+  flex-shrink: 0;
+}
+
+main {
+  width: 1141px;
+  background: #FFF;
+  margin: 0 auto;
+}
+main .good_hands {
+  display: flex;
+  width: 1000px;
+}
+main .good_hands .section1_img {
+  width: 600px;
+  height: 570px;
+  flex-shrink: 0;
+}
+main .good_hands .section1_img img {
+  width: 600px;
+  height: 590px;
+  flex-shrink: 0;
+}
+main .good_hands .section1_text {
+  width: 500px;
+  height: 400px;
+  margin-top: 50px;
+}
+main .good_hands .section1_text .restangle {
+  width: 169px;
+  height: 4px;
+  flex-shrink: 0;
+}
+main .good_hands .section1_text h2 {
+  color: #000;
+  font-family: DMSans;
+  font-size: 46px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: -1.256px;
+}
+main .good_hands .section1_text p {
+  width: 397px;
+  color: #000;
+  font-family: DMSans;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 25px; /* 140% */
+  letter-spacing: -0.503px;
+}
+main .good_hands .section1_text .main_good_btn {
+  display: flex;
+  margin-top: 50px;
+}
+main .good_hands .section1_text .main_good_btn button {
+  width: 209px;
+  height: 70px;
+  flex-shrink: 0;
+  border-radius: 0px 18px 0px 0px;
+  background: #000;
+  color: #FFF;
+  border: none;
+}
+main .good_hands .section1_text .main_good_btn button img {
+  width: 20px;
+  height: 10px;
+}
+main .find_live {
+  width: 1141px;
+  height: 266px;
+  background-color: #F5F5F5;
+  margin: 0 auto;
+  flex-shrink: 0;
+}
+main .find_live .container {
+  width: 900px;
+  height: 266px;
+  margin: 0 auto;
+}
+main .find_live .container .restangle2 {
+  width: 169px;
+  height: 4px;
+  flex-shrink: 0;
+  padding-top: 30px;
+}
+main .find_live .container h2 {
+  color: #000;
+  font-family: DMSans;
+  font-size: 46px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: -1.256px;
+  margin-top: 50px;
+}
+main .find_live .container .filter {
+  display: flex;
+  align-items: center;
+  width: 900px;
+  height: 120px;
+}
+main .find_live .container .filter ul {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  padding: 0px;
+  background-color: #E1E1E1;
+  border-radius: 10px 10px 0px 0px;
+}
+main .find_live .container .filter ul .radius_left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 224px;
+  height: 120px;
+  gap: 10px;
+  background-color: white;
+  border-radius: 10px 0px 0px 20px;
+}
+main .find_live .container .filter ul .no_radius {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 224px;
+  height: 120px;
+  gap: 10px;
+  background-color: white;
+}
+main .find_live .container .filter ul .radius_right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 224px;
+  height: 120px;
+  gap: 10px;
+  border-radius: 0px 10px 20px 0px;
+  background-color: white;
+}/*# sourceMappingURL=main.css.map */
